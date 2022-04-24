@@ -391,7 +391,7 @@ namespace StudentInfoSystem
                     {
                         var student = listStudents.ElementAt(command - 1);
                         Console.Clear();
-                        Console.WriteLine($"List of the lectures of student {student} of department {student.Department.DepartmentName}");
+                        Console.WriteLine($"List of the lectures of student {student}");
                         foreach (var lecture in student.ListLecture)
                         {
                             Console.WriteLine($"{student.ListLecture.IndexOf(lecture) + 1} - {lecture}");
