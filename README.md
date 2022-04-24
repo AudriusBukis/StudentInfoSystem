@@ -1,7 +1,7 @@
 # StudentInfoSystem
 
 
-           Welcome, Student information system
+           Welcome, to student information system
                 choose what you want to do
                 
 ----------------------------------------------------------------------
